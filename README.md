@@ -1,7 +1,7 @@
 # Tracker and Solver App (MERN Stack)
 
 > **B.Tech Computer Science and Engineering (CSE) Project**  
-> **Student Developer**: Uday ([@uday-CSE-debug](https://github.com/uday-CSE-debug))  
+> **Student Developers**: Uday ([@uday-CSE-debug](https://github.com/uday-CSE-debug)), Sathwik ([@sathwikreddy0964](https://github.com/sathwikreddy0964))  
 > **GitHub Repository**: [https://github.com/uday-CSE-debug/tracker-and-solver-app](https://github.com/uday-CSE-debug/tracker-and-solver-app)  
 > **Reference Technical Blueprint**: [sample_MERN_app_CSE_B by surendar77](https://github.com/surendar77/sample_MERN_app_CSE_B)
 
@@ -378,4 +378,4 @@ For rapid grading and faculty testing, the login screen includes **Quick Demo Lo
 
 ## 11. Academic Declaration
 
-This project was developed by **Uday** as part of the **B.Tech Computer Science and Engineering** curriculum. The technical reference from [`surendar77/sample_MERN_app_CSE_B`](https://github.com/surendar77/sample_MERN_app_CSE_B) was analyzed to adopt clean MERN coding conventions, resulting in an original, feature-complete, and self-contained **Tracker and Solver** system.
+This project was developed by **Uday** and **Sathwik** as part of the **B.Tech Computer Science and Engineering** curriculum. The technical reference from [`surendar77/sample_MERN_app_CSE_B`](https://github.com/surendar77/sample_MERN_app_CSE_B) was analyzed to adopt clean MERN coding conventions, resulting in an original, feature-complete, and self-contained **Tracker and Solver** system.
