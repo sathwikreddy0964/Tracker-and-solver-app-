@@ -306,7 +306,15 @@ npm install
 cd ..
 ```
 
-### 4. Running in Development Mode
+### 4. Seed Database (Optional / Instant Setup)
+Seed the default administrator and demo user accounts:
+```bash
+npm run seed
+```
+- **Admin Account**: `admin@example.com` / `AdminPassword123`
+- **Demo User Account**: `john@example.com` / `Password123`
+
+### 5. Running in Development Mode
 You can run both servers concurrently:
 
 **Terminal 1 (Backend API Server)**:
@@ -323,7 +331,7 @@ npm run dev
 # Vite client will start on http://localhost:5173
 ```
 
-### 5. Running in Production / Standalone Mode
+### 6. Running in Production / Standalone Mode
 Build the frontend and run the Express server (Express automatically serves the React SPA):
 ```bash
 npm run build

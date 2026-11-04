@@ -8,6 +8,7 @@
     "build": "cd frontend && npm run build",
     "backend": "cd backend && npm run dev",
     "frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && node seed_admin.js",
     "test": "node backend/test_api.js"
   },
   "keywords": [
